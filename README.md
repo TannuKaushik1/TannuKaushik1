@@ -56,7 +56,7 @@ AWS Community Builder
 Microsoft Cloud Computing
 
 📩 Connect with Me
-🔗 LinkedIn: Tannu Kaushik
+🔗 LinkedIn: https://www.linkedin.com/in/tannu-kaushik-539a16264/
 📧 Email: tannukaushik1503@gmail.com
 
 🚀 Let’s collaborate on AI, ML, and software projects!
